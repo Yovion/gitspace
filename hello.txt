@@ -17,3 +17,4 @@ hello dyy, hello git!
 hello dyy, hello git!
 hello dyy, nothing impossible!
 hello dyy, just try it again! master test.
+hello dyy, just try it again! hot fix master test.
